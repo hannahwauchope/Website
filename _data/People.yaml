@@ -1,0 +1,31 @@
+Team_Leader:
+- name: Gregory Armstrong
+  desc: Director of the Advanced Molecular Detection initiative, with extensive experience
+    in epidemiology and outbreak response at CDC, Atlanta, USA., NA, NA
+    #img: "/img/404-southpark.jpg"
+Current_Members:
+- name: Gregory Armstrong
+  desc: Director of the Advanced Molecular Detection initiative, with extensive experience
+    in epidemiology and outbreak response at CDC, Atlanta, USA., NA, NA
+- name: Gabor Csardi
+  desc: Computer scientist with a strong background in statistics and network theory,
+    Gabor is a prominent member of the R community who develops and contributes to
+    a number of major packages such as igraph, roxygen and R6. Mango Solutions, Chippenham,
+    UK., NA, NA
+  img: https://dl.airtable.com/.attachments/ad3bbc1d277e062621c8a589cb6ae45c/679eea65/gabor-csardi.jpg
+  website: http://gaborcsardi.org/
+  twitter: http://twitter.com/gaborcsardi
+  github: http://github.com/gaborcsardi
+Past_Members:
+- name: Soledad Colombe
+  desc: Infectious disease epidemiologist with a strong interest in zoonotic diseases.,
+    Outbreak Research Team, Institute of Tropical Medicine, Antwerp, Belgium
+  img: https://dl.airtable.com/.attachments/54fcb27af0745dd88994d140d28d1392/54905b51/soledad-colombe.jpg
+- name: Thibaut Jombart
+  desc: RECON Founder. Statistician and R programmer specialized in outbreak analysis.,
+    London School of Hygiene and Tropical Medicine / Imperial College London, UK.,
+    France
+  img: https://dl.airtable.com/.attachments/77429ce90cc58f644e60058fc6c4d559/1b6eb205/thibaut-jombart.jpg
+  website: https://thibautjombart.netlify.com/
+  twitter: https://twitter.com/TeebzR
+  github: https://github.com/thibautjombart/
