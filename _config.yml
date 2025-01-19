@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Hannah Wauchope Conservation Scientist
+title: Hannah Wauchope
 
 # Your name to show in the footer
 author: Hannah Wauchope
@@ -32,14 +32,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/PrettyPics/Black-Tailed-Godwit_Limosa-limosa_Robert-Blanken_Square"
+avatar: "/assets/img/PrettyPics/Black-Tailed-Godwit_Limosa-limosa_Robert-Blanken_Square.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/PrettyPics/Black-Tailed-Godwit_Limosa-limosa_Robert-Blanken_Square"
+# title-img: "/assets/img/PrettyPics/Black-Tailed-Godwit_Limosa-limosa_Robert-Blanken_Square"
 
 
 #####################################
@@ -151,7 +151,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/PrettyPics/Black-Tailed-Godwit_Limosa-limosa_Robert-Blanken_Square.jpeg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
