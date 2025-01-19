@@ -20,8 +20,7 @@ author: Hannah Wauchope
 ###############################################
 
 navbar-links:
-  Home: "index"
-  #Research:
+  Research: "Research"
   People: "People"
   Publications: "Publications"
   Contact: "Contact"
