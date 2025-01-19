@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hannah Wauchope & Co
+title: Hannah Wauchope
 subtitle: Quantitative Conservation Science
 ---
 
