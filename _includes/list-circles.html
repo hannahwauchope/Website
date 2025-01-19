@@ -24,7 +24,10 @@
         {% endif %}
         {% if item.github %}
           <a class="item-link" href="{{ item.github }}" title="GitHub">
-            <span class="fa fa-github"></span>
+                  <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+        </span>
           </a>
         {% endif %}
         {% if item.twitter %}
@@ -37,7 +40,10 @@
         {% endif %}
         {% if item.linkedin %}
           <a class="item-link" href="{{ item.linkedin }}" title="LinkedIn">
-            <span class="fa fa-linkedin"></span>
+                  <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
           </a>
         {% endif %}
         {% if item.email %}
@@ -45,6 +51,22 @@
                 <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+          </a>
+        {% endif %}
+        {% if item.bluesky %}
+          <a class="item-link" href="{{ item.bluesky }}" title="BlueSky">
+               <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-brands fa-bluesky fa-stack-1x fa-inverse"></i>
+        </span>
+          </a>
+        {% endif %}
+        {% if item.googlescholar %}
+          <a class="item-link" href="{{ item.googlescholar }}" title="GoogleScholar">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
               </span>
           </a>
         {% endif %}
