@@ -11,8 +11,12 @@ For postdocs - I'll advertise any funded opportunities on the home page of this 
 
 REMEMBER if considering working with me, or any other P.I., its very important you speak to past and present group members to find out what working within the group is like. All supervisors operate differently (and probably have a fairly different idea of what it looks like from our side verses how students perceive it). Some supervisors are not so great. Its important to be sure you feel happy that the group is a good fit for you! You'll find the emails of my students on the 'People' page, and can normally find students for most P.I.s on their websites or university pages.
 
-### Location
+### Where we're based
 
-We're based down at the Kings Buildings Campus of the University of Edinburgh, it's about 20mins on the bus south from Waverly Station.
+Rather confusingly, Edinburgh has two departments concerned with ecology. This research group is primarily based within The School of Geosciences (which is divided into three Research Institutes - ours is "Global Change"). It's a great and interdisciplinary place to work in as you interact with people doing many things concerned with the changing planet, but not directly ecology related. We collaborate closely with, and a few group members are based in, the School of Biological Sciences, which also has an ecology group. Further afield, some members are based on the Schools of Chemistry and Mathematics.
+
+We're mostly based down at the Kings Buildings Campus of the University of Edinburgh, it's about 20mins on the bus south from Waverly Station.
+
+
 
 
