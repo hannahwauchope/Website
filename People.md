@@ -1,7 +1,5 @@
 ---
 title: People
-subtitle: The humans behind this project
-default_profile_img: /assets/img/people/anonymous.jpg
 ---
 
 ## Team Leader
