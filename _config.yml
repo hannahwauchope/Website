@@ -20,9 +20,9 @@ author: Hannah Wauchope & Co
 ###############################################
 
 navbar-links:
-  People: "People"
-  Publications: "Publications"
-  Contact: "Contact"
+  People: "people"
+  Publications: "publications"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
