@@ -2,10 +2,17 @@
 layout: page
 title: Publications
 ---
+
+Geldmann, J., Jones, J. P. G., **Wauchope, H. S.**, Ferraro, P. J. (2025) Causal claims, causal assumptions and protected area impact. *Nature*, 638(8052): E40-E41
+
+Terauds, A., Lee, J. R., **Wauchope, H. S.**, Raymond, B., Bergstrom, D. M., Convey, P., Mason, C., Patterson, C. R., Robinson, S. A., Van de Putte, A., Watts, D., Chown., S. L. (2025) The biodiversity of ice-free Antarctica database. *Ecology*, 106(1): e70000
+
+**Everest, J. J.**, Van Cleemput, E., Beamish, A. L., Spasojevic, M. J., Humphries, H. C., Elmendorf, S. C. (2025) Evaluating the utility of hyperspectral data to monitor local-scale β-diversity across space and time. *Remote Sensing of the Environment*, 316: 114507
+
 **Wauchope, H. S.**, zu Ermgassen, S.O.S.E., Jones, J. P. G., Carter, H., Schulte to Bühne, H., Milner-Gulland, E. J. (2024) What is a unit of nature? Measurement challenges in the emerging biodiversity credit market. *Proceedings of the Royal Society B: Biological Sciences*, 291: 20242353.
 &nbsp;&nbsp;&nbsp;<small> Coverage Available at: [Anthropocene](https://www.anthropocenemagazine.org/2024/12/whats-a-unit-of-nature-and-can-it-be-sold-in-a-biodiversity-credit-market/) </small>
 
-Dickson, I., Butchart, S. H., Catalano, A., Gibbons, D., Jones, J. P. G., Lee‐Brooks, K., ... **Wauchope, H. S.**, Wicander, S., & Sutherland, W. J. (2023). Introducing a common taxonomy to support learning from failure in conservation. *Conservation Biology*, 37(1), e13967.
+Dickson, I., Butchart, S. H., Catalano, A., Gibbons, D., Jones, J. P. G., Lee‐Brooks, K., ... **Wauchope, H. S.**, Wicander, S., & Sutherland, W. J. (2023). Introducing a common taxonomy to support learning from failure in conservation. *Conservation Biology*, 37(1): e13967.
 
 **Wauchope, H. S.**, Jones, J. P. G., Geldmann, J., Simmons, B. I., Amano, T., Blanco, D. E., Fuller, R. A., Johnston, A., Langendoen, T., Mundkur, T., Nagy, S., Sutherland, W. J. (2022) Protected areas have a mixed impact on waterbirds, but management helps. *Nature*. 605: 103-107
 &nbsp;&nbsp;&nbsp;<small> Coverage Available at: [Guardian](https://www.theguardian.com/environment/2022/apr/20/protected-areas-dont-always-benefit-wildlife-global-study-finds-aoe), [BBC](https://www.bbc.com/news/science-environment-61164969) </small>
