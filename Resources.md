@@ -1,7 +1,30 @@
 ---
 layout: page
-title: Publications
+title: Resources
 ---
+
+Here is a fairly adhoc collection of websites resources. This is not a comprehensive or organised list, it's mostly for me to be able to refer back to!
+
+#### Linear Model Related Things
+
+  - Tim Newbolds teaching on linear models (just so clear)
+  - Explorations in using 'year' as a random effect in models (only useful if trying to get specific year estimates to e.g. correct for sampling bias. Not very useful if trying to simplify or generalise and estimate through time slopes). From Andrew Heiss https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/#intercepts-and-slopes-for-each-country-account-for-year-specific-differences 
+
+
+#### Causal Inference Related Things
+
+  - Brilliant paper on why Two Way Fixed Effects are almost never the model you want (in particular if you are trying to generalise an estimate through time, or across groups - the TWFE model will give a point estimate for each group, in each time point, thereby not giving you any useful conclusions) https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231349
+  - 
+
+#### GIS Related Things
+
+#### Miscellaneous!
+
+#### Cool stuff I chat with my Nieblings about 
+  - Just a giant snake https://www.nature.com/articles/nature07671 
+
+
+
 T. Bridier, **H. S. Wauchope**, J. Vad (2025) Beyond the horizon: Evidence of management deficiencies in UK offshore protected areas. *Marine Policy*, 179:106741.
 
 Geldmann, J., Jones, J. P. G., **Wauchope, H. S.**, Ferraro, P. J. (2025) Causal claims, causal assumptions and protected area impact. *Nature*, 638(8052): E40-E41
