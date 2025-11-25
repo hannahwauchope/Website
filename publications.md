@@ -2,7 +2,10 @@
 layout: page
 title: Publications
 ---
-T. Bridier, **H. S. Wauchope**, J. Vad (2025) Beyond the horizon: Evidence of management deficiencies in UK offshore protected areas. *Marine Policy*, 179:106741.
+
+Berger, I., Kamble, A., Morton, O., Raj, V., Nair, S. R., Edwards, D. P., **Wauchope, H. S.**, JOshi, V., Basu, P., Smith, B., Dicks, L. V. (2025) India’s agroecology programme, ‘Zero Budget Natural Farming’, delivers biodiversity and economic benefits without lowering yields. *Nature Ecology & Evolution* 9, 2057–2068
+
+Bridier, T., **Wauchope, H. S.**, Vad, J. (2025) Beyond the horizon: Evidence of management deficiencies in UK offshore protected areas. *Marine Policy*, 179:106741.
 
 Geldmann, J., Jones, J. P. G., **Wauchope, H. S.**, Ferraro, P. J. (2025) Causal claims, causal assumptions and protected area impact. *Nature*, 638(8052): E40-E41
 
