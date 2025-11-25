@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-Here is a very adhoc collection of websites resources. This is not a comprehensive or organised list, it's mostly for me to be able to refer back to!
+Here is a very adhoc collection of websites and resources. This is not a comprehensive or organised list, it's mostly for me to be able to refer back to, but may be of use to some. 
 
 #### Linear Model Related Things
 
@@ -12,10 +12,12 @@ Here is a very adhoc collection of websites resources. This is not a comprehensi
   - If understanding trends through time: Explorations in using 'year' as a random effect in linear models (conclusion: only useful if trying to get specific year estimates to e.g. correct for sampling bias. Not very useful if trying to simplify or generalise to estimate through time slopes). From [Andrew Heiss](https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/#intercepts-and-slopes-for-each-country-account-for-year-specific-differences)
 
 
-#### Causal Inference Related Things
+#### Causal Inference/Impact Evaluation Related Things
 
-  - [Brilliant paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231349) on why Two Way Fixed Effects are almost never the model you want (in particular if you are trying to generalise an estimate through time, or across groups - the TWFE model will give a point estimate for each group, in each time point, thereby not giving you any useful conclusions) 
-  - 
+  - New to Causal Inference? Read [The Book of Why](https://blackwells.co.uk/bookshop/product/The-Book-of-Why-by-Judea-Pearl-Dana-Mackenzie/9780141982410?srsltid=AfmBOopcGL7t9hTuatMLimkq6HvVo3Dwprrpc8J9mkUp1Fg8cwpPhwh7)
+  - [Brilliant, though technical, paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231349) on why Two Way Fixed Effects are almost never the model you want (in particular if you are trying to generalise an estimate through time, or across groups - the TWFE model will give a point estimate for each group, in each time point, thereby not giving you any useful conclusions) 
+    - [On why propensity scores are not good for matching](https://funginstitute.berkeley.edu/wp-content/uploads/2015/09/psnot.pdf) (also technical, but well worth committing to - there's a youtube video which the comments indicate explain it very clearly [here](https://www.youtube.com/watch?v=rBv39pK1iEs))
+
 
 #### GIS Related Things
 
