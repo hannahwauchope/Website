@@ -6,6 +6,12 @@ Team_Leader:
   googlescholar: "https://scholar.google.com.au/citations?user=ETK2W0IAAAAJ&hl=en"
   github: "http://github.com/hannahwauchope"
 Current_Members:
+- name: Owen Pauptit (PhD Student)
+  desc: I'm a PhD student at the University of Edinburgh looking into how we can properly account for uncertainty in biodiversity measurement. I care about reporting biodiversity change that is statistically meaningful, so that policy-relevant metrics are genuinely beneficial to the ecosystems involved.
+  img: "/assets/img/people/Owen.jpg"
+  website: "https://owenpauptit.github.io"
+  googlescholar: "https://scholar.google.co.uk/citations?user=dQcX5fUAAAAJ"
+  email: "opauptit@ed.ac.uk"
 - name: Francesca Fehlberg (PhD Student)
   desc: I'm a PhD student based at the University of Edinburgh. My research uses passive acoustic monitoring to understand how various restoration and vegetation types impact avian species richness in the West Sudanian Savannas of Africa.
   img: "/assets/img/people/Cess.jpg"
