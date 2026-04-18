@@ -4,10 +4,11 @@ title: Hannah Wauchope & Co
 subtitle: Quantitative Conservation Science
 ---
 
-This is the research website of me and the people I work with at the University of Edinburgh. Our work focuses on how we measure biodiversity and understand humanity's impacts upon it. This includes projects aiming to:
-  - Understand the impact of interventions (such as protecting or restoring habitat) on biodiversity
+This is the research website of my team and others at the University of Edinburgh, focused on how we measure biodiversity and understand humanity's impacts upon it. This includes projects aiming to:
+
   - Investigate how we use data to track progress towards national and international biodiversity-related policy targets (especially data on population trends)
-  - Assess the viability of biodiversity credits - which propose to measure discrete 'units' of nature
+  - Understand the strengths and weaknesses of metrics used to represent biodiversity for business and finance
+  - Understand the impact of interventions (such as protecting or restoring habitat) on biodiversity
   - Quantify the impacts of climate change and invasive species on species distributions and abundances.
 
 #### Where we work
