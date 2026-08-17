@@ -25,10 +25,6 @@ Here is a very adhoc collection of websites and resources. This is not a compreh
   - BEWARE If you're doing spatial analysis in R, a few years back all the packages went through a total overhaul, making a lot of material out of date. If your googling leads you to use any of the following packages (raster, rgdal, rgeos, sp), IGNORE and look elsewhere. Ideally you should be conducting your spatial work in terra and/or sf.
   - [Intro to spatial analysis in R](https://rspatial.org/index.html) incl terra.
 
-#### Miscellaneous!
-
-  - Apparently nothing meeting this criteria in my brain just yet
-
 #### Cool stuff I chat with my Nieblings about 
-  - Just a giant snake https://www.nature.com/articles/nature07671 
+  - [Just a giant snake](https://www.nature.com/articles/nature07671)
 

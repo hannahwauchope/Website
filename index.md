@@ -4,21 +4,22 @@ title: Hannah Wauchope & Co
 subtitle: Quantitative Conservation Science
 ---
 
-This is the research website of my team at (mostly) the University of Edinburgh. Our work focuses on how we measure biodiversity and understand humanity's impacts upon it, for example we investigate:
-
-  - How we use data to track progress towards national and international biodiversity-related policy targets (especially data on population trends)
-  - The strengths and weaknesses of metrics used to represent biodiversity for business and finance
-  - The impact of interventions (such as protecting or restoring habitat, or emerging nature markets) on biodiversity
-  - How climate change and invasive species affect species distributions and abundances.
+Our research focuses on how we measure biodiversity and our impacts upon it. The world is too large and complex for us to comprehend the state of things by experience alone, meaning we rely on data to shape the narratives we tell. How is biodiversity changing? Which strategies work best to protect it? The way data is collected, summarised in metrics, analysed, and interpreted all affect how these questions are answered. This in turn affects the decisions of policy makers, business leaders and managers. We work to ensure the stories data tell are as representative of the real world as possible. For example, key projects include:
+  - Improving the accuracy of indicators used to track biodiversity change for national and international policy targets (especially data on population trends)
+  - Interrogating the strengths and weaknesses of metrics used to represent biodiversity for business and finance
+  - Improving methods to understand the impact of interventions (such as protecting or restoring habitat, or emerging nature markets) on biodiversity
+  - Testing approaches to assess how climate change and invasive species affect species distributions and abundances.
 
 #### Where we work
-Much of our work is based on large data sets at large scales, or is focused on developing general methodologies, but many projects are also based on local scale field work. Currently group members are working on projects looking at: the impacts of restoration and/or invasive species on habitats in Scotland, Ghana and French Polynesia; which protected area management strategies work best in the UK and Ireland; and how climate change in The Yukon, Arctic Canada is affecting both tundra plants and population dynamics between snowshoe hare and lynx.
-
+We're mostly located at the University of Edinburgh, and much of our work is based on large data sets at broad scales, and/or develops general methodologies which could be applicable across contexts. Some projects also involve location specific work, in particular in polar systems, for example: 
+  - Improving data representativeness of Antarctic ecosystems, and using this data to assess protected area representativeness
+  - Understanding climate change impacts to Arctic breeding shorebirds, and snowshoe hares
+  - Evaluating the impacts of restoration and/or invasive species on habitats in Scotland, Ghana and French Polynesia
+  - Determining which protected area management strategies work best in the UK and Ireland
+  
 #### Who we work with
-The work of this group aims to be as real-world relevant as possible, and we have collaborated with many government and non-government organisations, including The Scientific Committee on Antarctic Research (SCAR), WWF, Wetlands International, The Swiss Ornithological Institute, Tree Aid, The International Union for the Conservation of Nature (IUCN) and the Australian Antarctic Division.
+The work of this group aims to be as real-world relevant as possible, and we have collaborated with many government and non-government organisations, including The Scottish Government, The Scientific Committee on Antarctic Research (SCAR), the Zoological Society of London, WWF, Wetlands International, The Swiss Ornithological Institute, Tree Aid, The International Union for the Conservation of Nature (IUCN), the Norwegian Polar Institute and Norwegian Institute for Nature Research and the Australian Antarctic Division.
 
 We also collaborate with a wide range of academic institutions.
 
-#### Interested?
-To find out more about individual projects see the 'People' page. If you're interested in joining the group, you'll find more info on the 'Contact' page.
 

@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Berger, I., Kamble, A., Morton, O., Raj, V., Nair, S. R., Edwards, D. P., **Wauchope, H. S.**, JOshi, V., Basu, P., Smith, B., Dicks, L. V. (2025) India’s agroecology programme, ‘Zero Budget Natural Farming’, delivers biodiversity and economic benefits without lowering yields. *Nature Ecology & Evolution* 9, 2057–2068.
+Berger, I., Kamble, A., Morton, O., Raj, V., Nair, S. R., Edwards, D. P., **Wauchope, H. S.**, Joshi, V., Basu, P., Smith, B., Dicks, L. V. (2025) India’s agroecology programme, ‘Zero Budget Natural Farming’, delivers biodiversity and economic benefits without lowering yields. *Nature Ecology & Evolution* 9, 2057–2068.
 
 Bridier, T., **Wauchope, H. S.**, Vad, J. (2025) Beyond the horizon: Evidence of management deficiencies in UK offshore protected areas. *Marine Policy*, 179:106741.
 
