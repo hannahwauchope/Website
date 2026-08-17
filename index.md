@@ -4,7 +4,7 @@ title: Hannah Wauchope & Co
 subtitle: Quantitative Conservation Science
 ---
 
-Our research focuses on how we measure biodiversity and our impacts upon it. The world is too large and complex for us to comprehend the state of things by experience alone, meaning we rely on data to shape the narratives we tell. How is biodiversity changing? Which strategies work best to protect it? The way data is collected, summarised in metrics, analysed, and interpreted all affect how these questions are answered. This in turn affects the decisions of policy makers, business leaders and managers. We work to ensure the stories data tell are as representative of the real world as possible. For example, key projects include:
+Our research focuses on how we measure biodiversity and our impacts upon it. The world is too complex for us to comprehend the broad state of things by experience alone, meaning we rely on data to shape the narratives we tell. How is biodiversity changing? Which strategies work best to protect it? The answers to these questions are affected by the way data is collected, summarised in metrics, analysed, and interpreted. These in turn affect the decisions of policy makers, business leaders and managers. We work to ensure the stories data tell are as representative of the real world as possible. For example, key projects include:
   - Improving the accuracy of indicators used to track biodiversity change for national and international policy targets (especially data on population trends)
   - Interrogating the strengths and weaknesses of metrics used to represent biodiversity for business and finance
   - Improving methods to understand the impact of interventions (such as protecting or restoring habitat, or emerging nature markets) on biodiversity
