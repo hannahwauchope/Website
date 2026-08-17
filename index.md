@@ -11,14 +11,14 @@ Our research focuses on how we measure biodiversity and our impacts upon it. The
   - Testing approaches to assess how climate change and invasive species affect species distributions and abundances.
 
 #### Where we work
-We're mostly located at the University of Edinburgh, and much of our work is based on large data sets at broad scales, and/or develops general methodologies which could be applicable across contexts. Some projects also involve location specific work, in particular in polar systems, for example: 
+Hannah is a Lecturer in Ecology & Conservation at the University of Edinburgh, and most of the team are also based here. In terms of the focus of our work, much uses large data sets at broad scales, and/or develops general methodologies which could be applicable across contexts. Some projects also involve location specific work, in particular in polar systems, for example: 
   - Improving data representativeness of Antarctic ecosystems, and using this data to assess protected area representativeness
   - Understanding climate change impacts to Arctic breeding shorebirds, and snowshoe hares
   - Evaluating the impacts of restoration and/or invasive species on habitats in Scotland, Ghana and French Polynesia
   - Determining which protected area management strategies work best in the UK and Ireland
   
 #### Who we work with
-The work of this group aims to be as real-world relevant as possible, and we have collaborated with many government and non-government organisations, including The Scottish Government, The Scientific Committee on Antarctic Research (SCAR), the Zoological Society of London, WWF, Wetlands International, The Swiss Ornithological Institute, Tree Aid, The International Union for the Conservation of Nature (IUCN), the Norwegian Polar Institute and Norwegian Institute for Nature Research and the Australian Antarctic Division.
+The work of this group aims to be as real-world relevant as possible, and we have collaborated with many government and non-government organisations, including The Scottish Government,  the Zoological Society of London, WWF, Wetlands International, the Centre for Ecology & Hydrology, The Scientific Committee on Antarctic Research (SCAR), The Swiss Ornithological Institute, Tree Aid, The International Union for the Conservation of Nature (IUCN), the Norwegian Polar Institute and Norwegian Institute for Nature Research and the Australian Antarctic Division.
 
 We also collaborate with a wide range of academic institutions.
 
