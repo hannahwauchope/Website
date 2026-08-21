@@ -21,7 +21,7 @@ Dickson, I., Butchart, S. H., Catalano, A., Gibbons, D., Jones, J. P. G., Lee‐
 **Wauchope, H. S.**, Jones, J. P. G., Geldmann, J., Simmons, B. I., Amano, T., Blanco, D. E., Fuller, R. A., Johnston, A., Langendoen, T., Mundkur, T., Nagy, S., Sutherland, W. J. (2022) Protected areas have a mixed impact on waterbirds, but management helps. *Nature*. 605: 103-107
 &nbsp;&nbsp;&nbsp;<small> Coverage Available at: [Guardian](https://www.theguardian.com/environment/2022/apr/20/protected-areas-dont-always-benefit-wildlife-global-study-finds-aoe), [BBC](https://www.bbc.com/news/science-environment-61164969) </small>
 
-**Wauchope, H. S.**, Amano, T., Geldmann, J., Johnston, A., Jones, J. P. G., Simmons, B. I., Sutherland, W. J. (2021) Evaluating impact with time series data. *Trends in Ecology and Evolution*. 36(3): 196-205
+**Wauchope, H. S.**, Amano, T., Geldmann, J., Johnston, A., Simmons, B. I., Sutherland, W. J., Jones, J. P. G. (2021) Evaluating impact using time series data. *Trends in Ecology and Evolution*. 36(3): 196-205
 
 IUCN (2021). Conflict and conservation. Nature in a Globalised World Report No.1. Gland, Switzerland: *IUCN*. (**Wauchope H. S.**: contributing author and analyst)
 
